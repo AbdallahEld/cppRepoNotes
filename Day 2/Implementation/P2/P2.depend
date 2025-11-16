@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762172520 source:d:\remando\learning stuff\iti\oop\oop day 2\p2\main.cpp
+	<stdlib.h>
+	<windows.h>
+	<iostream>
+
